@@ -1,6 +1,6 @@
 # bottom_navigation
+Curved Bottom Navigation Bar.
 
-A new Flutter application.
 
 ## Getting Started
 
